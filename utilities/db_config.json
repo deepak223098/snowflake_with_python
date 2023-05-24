@@ -1,0 +1,22 @@
+{
+  "DG": {
+    "dev": {
+
+      "user": "yourusername",
+      "password": "yourpassword",
+      "account": "youraccount",
+      "database": "yourdatabasename",
+      "schema": "yourschemaname"
+
+    },
+
+  "prod": {
+
+      "user": "yourusername",
+      "password": "yourpassword",
+      "account": "youraccount",
+      "database": "yourdatabasename",
+      "schema": "yourschemaname"
+  }
+        }
+}
